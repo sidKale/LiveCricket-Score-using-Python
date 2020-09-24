@@ -1,0 +1,6 @@
+Python Script to live score,commentary etc of Cricket matches
+
+Installation
+
+pip install pycricbuzz
+
